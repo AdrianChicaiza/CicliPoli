@@ -49,3 +49,8 @@ Luego se tiene una carpeta de diseño para la interfaz gráfica, en este aspecto
 
 ![image](https://user-images.githubusercontent.com/105765407/223198118-a4c0f669-377f-4db2-af78-c1de45de5d75.png)
 
+## VIDEO DE LA FUNCIONALIDAD
+LINK: https://www.youtube.com/watch?v=dpiAqwGZRKQ
+
+![image](https://user-images.githubusercontent.com/105765407/223202086-4fe3fe5a-368f-415b-9769-bf25f3a138a7.png)
+
