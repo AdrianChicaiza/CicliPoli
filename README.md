@@ -32,3 +32,13 @@ Seguidamente se muestra una figura, la cual indica archivos xml, los cuales son 
 Luego se tiene una carpeta de diseño para la interfaz gráfica, en este aspecto es intuitivo editar a nuestro gusto la aplicación móvil, para eso se crea un archivo xml para crear la vista conforme a la funcionalidad, a continuación se indica un ejemplo de diseño sobre la vista de autenticación.
 
 ![ imagen ](https://user-images.githubusercontent.com/105765407/223016027-6689e305-fac1-406a-b436-5f67e7987b2c.png)
+
+## FUNCIONALIDAD DE LA APLICACIÓN MOVIL.
+
+1. FUNCIONALIDAD ADMINISTRADOR.
+
+![image](https://user-images.githubusercontent.com/105765407/223017046-ae9bd5d8-50e9-4f94-9d85-f7308c165a3c.png)
+
+2- FUNCIONALIDAD CICLISTA.
+
+![image](https://user-images.githubusercontent.com/105765407/223017189-54335759-e955-4806-a3ea-00096d13de0e.png)
