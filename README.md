@@ -42,3 +42,10 @@ Luego se tiene una carpeta de diseño para la interfaz gráfica, en este aspecto
 2- FUNCIONALIDAD CICLISTA.
 
 ![image](https://user-images.githubusercontent.com/105765407/223017189-54335759-e955-4806-a3ea-00096d13de0e.png)
+
+## DESPLIEGUE EN PLAY STORE
+
+![image](https://user-images.githubusercontent.com/105765407/223198065-92c5dfb2-8a20-4dda-9d7e-03610ebbf25f.png)
+
+![image](https://user-images.githubusercontent.com/105765407/223198118-a4c0f669-377f-4db2-af78-c1de45de5d75.png)
+
